@@ -1,11 +1,11 @@
 build:
-  version: "3.0"
+  version: "3.1"
 
 loans:
-  message: "Welcome to EazyBank loans related local APIs "
+  message: "Welcome to Eazybank loans related local APIs"
   contactDetails:
-    name: "Amaal Grega - Developer"
-    email: "amaal@eazybank.com"
+    name: "murugappa devar"
+    email: "murugappa@eszybank.com"
   onCallSupport:
-    - (452) 456-2176
-    - (546) 764-8934
+    - (555)421-6598
+    - (555)414-6678
